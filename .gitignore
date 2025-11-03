@@ -3,3 +3,8 @@
 .env
 __pycache__/
 *.pyc
+*.pyo
+session_string.txt
+venv/
+.vscode/
+.idea/
